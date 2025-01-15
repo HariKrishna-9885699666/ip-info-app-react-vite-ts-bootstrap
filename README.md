@@ -4,7 +4,7 @@ This is a simple ip information application using React + Vite, TypeScript, Boot
 
 ## Live Demo
 
-You can check out the live demo of the application here: [Image recognition Demo](https://ip-info-app-react-vite-ts-bootstrap.netlify.app/)
+You can check out the live demo of the application here: [IP Information](https://ip-info-app-react-vite-ts-bootstrap.netlify.app/)
 
 ## Prerequisites
 
